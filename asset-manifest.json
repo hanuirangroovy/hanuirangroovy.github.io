@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f99aa4.css",
+    "main.js": "/static/js/main.499612a1.js",
+    "static/js/206.86808f53.chunk.js": "/static/js/206.86808f53.chunk.js",
+    "static/media/gyungy_Regular.ttf": "/static/media/gyungy_Regular.e1dab513b29fb71c050e.ttf",
+    "static/media/YOnepick-Regular.ttf": "/static/media/YOnepick-Regular.f136e1e8ce392b1cf57e.ttf",
+    "static/media/SF.ttf": "/static/media/SF.14ca71d7177c18e6f850.ttf",
+    "static/media/Nelna_sm.ttf": "/static/media/Nelna_sm.d11e6125f576182fc976.ttf",
+    "static/media/ChosunCentennial_ttf.ttf": "/static/media/ChosunCentennial_ttf.5a0298767b47f2acc2c9.ttf",
+    "static/media/Moneygraphy-Rounded.ttf": "/static/media/Moneygraphy-Rounded.43682343ad9d56315976.ttf",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.52f99aa4.css",
+    "static/js/main.499612a1.js"
+  ]
+}
