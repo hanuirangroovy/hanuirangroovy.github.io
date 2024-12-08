@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.52f99aa4.css",
-    "main.js": "/static/js/main.167eccb3.js",
+    "main.js": "/static/js/main.53648b7d.js",
     "static/js/206.86808f53.chunk.js": "/static/js/206.86808f53.chunk.js",
     "static/media/gyungy_Regular.ttf": "/static/media/gyungy_Regular.e1dab513b29fb71c050e.ttf",
     "static/media/YOnepick-Regular.ttf": "/static/media/YOnepick-Regular.f136e1e8ce392b1cf57e.ttf",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.52f99aa4.css",
-    "static/js/main.167eccb3.js"
+    "static/js/main.53648b7d.js"
   ]
 }
